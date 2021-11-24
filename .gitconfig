@@ -1,7 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
 	name = Sean White
-	email = seanbrwh@gmail.com
-# Please adapt and uncomment the following lines:
-#	name = Sean White
-#	email = seanbrwh@gmail.com
+	email = 26911526+seanbrwh@users.noreply.github.com
+	
+[core]
+	editor = code --wait
