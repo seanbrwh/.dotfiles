@@ -54,9 +54,3 @@ TODO List
 - integrate other cloud services into your dotfile process (dropbox, google drive, etc)
 
 - find inspiration and examples of other dotfiles at dotfiles.github.io
-
-- add vscode settings
-
-- add keygen
-
-- add aliases

@@ -1,0 +1,17 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+- clean:
+    - "~"
+- link:
+    ~/.zshrc: zshrc
+    ~/.gitconfig: gitconfig
+    ~/.android: android
+    ~/.docker: docker
+    ~/.gradle: gradle
+    ~/.iterm2: iterm2
+    ~/.vscode: vscode
+- shell:
+    - - git submodule update --init --recursive
+      - Installing submodules
